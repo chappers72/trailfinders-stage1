@@ -43,7 +43,7 @@ For bonus points, provide a written rationale (or implementation if you wish) fo
 
 ## Submission
 
-Please send your solution as a .zip to Sam (sam@sgb.io). Please don't include node_modules.
+Please send your solution as a .zip to Steve (stevenjchapman@gmail.com). Please don't include node_modules.
 Alternatively, you can share a link to your repo. **Note:** please create a repo from scratch rather than forking the solution where possible.
 
 ## Feedback
