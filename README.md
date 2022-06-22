@@ -48,4 +48,4 @@ Alternatively, you can share a link to your repo. **Note:** please create a repo
 
 ## Feedback
 
-For any clarifications or feedback on this exercise, please contact Sam (sam@sgb.io)
+For any clarifications or feedback on this exercise, please contact Steve (stevenjchapman@gmail.com)
